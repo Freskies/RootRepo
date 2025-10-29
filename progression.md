@@ -1,6 +1,5 @@
 # Progression
 
-
 ### Level 0:
 - Basic understanding of game rules
 
@@ -11,18 +10,18 @@
 - Corvid Conspiracy
 
 ### Level 2:
-- Riverfolk Company
+- Underground Duchy
 - Vagabond
 - Winter/Lake/Mountain Map
 
 ### Level 3:
 - Dual Vagabonds
 - Lords of the Hundreds
-- Lizard Cult
+- Riverfolk Company
 - Landmarks
 
 ### Level 4:
-- Underground Duchy
+- Lizard Cult
 - Keepers in Iron
 - Hirelings
 
