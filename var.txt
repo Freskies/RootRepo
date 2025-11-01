@@ -1,0 +1,40 @@
+PLAYERS:
+Giacchini Valerio
+Del Bianco Filippo
+Neustadter Jay Liam
+Pezzi Lorenzo
+Venturi Giovanni
+Beneventi Pietro
+Casadei Alice
+Fedriga Alberto
+Laghi Alessandro
+Liverani Andrea
+Marchi Luca
+Montanari Fabbri Jonel
+Noschese Maria Angelica
+Paone Giovanni
+Rizzoli Fabio
+Roncuzzi Filippo
+Zanchini Margherita
+
+FACTIONS:
+Marquise de Cat
+Eyrie Dynasties
+Woodland Alliance
+Vagabond
+Lizard Cult
+Riverfolk Company
+Underground Duchy
+Corvid Conspiracy
+Lord of the Hundreds
+Keepers in Iron
+
+MAPS:
+Autumn
+Winter
+Lake
+Mountain
+
+DECKS:
+Standard
+Exiles and Partisans
